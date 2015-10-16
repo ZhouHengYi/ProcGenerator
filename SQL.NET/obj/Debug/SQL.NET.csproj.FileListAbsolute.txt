@@ -1,0 +1,60 @@
+D:\WEB项目\制作\SQL.NET\SQL.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\WEB项目\制作\SQL.NET\SQL.NET\obj\Debug\SQL.NET.Form1.resources
+D:\WEB项目\制作\SQL.NET\SQL.NET\obj\Debug\SQL.NET.Properties.Resources.resources
+D:\WEB项目\制作\SQL.NET\SQL.NET\obj\Debug\SQL.NET.csproj.GenerateResource.Cache
+D:\WEB项目\制作\SQL.NET\SQL.NET\bin\Debug\SQL.NET.exe
+D:\WEB项目\制作\SQL.NET\SQL.NET\bin\Debug\SQL.NET.pdb
+D:\WEB项目\制作\SQL.NET\SQL.NET\obj\Debug\SQL.NET.exe
+D:\WEB项目\制作\SQL.NET\SQL.NET\obj\Debug\SQL.NET.pdb
+D:\WEB项目\制作\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.exe
+D:\WEB项目\制作\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.pdb
+D:\WEB项目\制作\存储过程生成器\SQL.NET\bin\Debug\SQL.NET.exe
+D:\WEB项目\制作\存储过程生成器\SQL.NET\bin\Debug\SQL.NET.pdb
+D:\WEB项目\制作\存储过程生成器\SQL.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\WEB项目\制作\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.Form1.resources
+D:\WEB项目\制作\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.Properties.Resources.resources
+D:\WEB项目\制作\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.csproj.GenerateResource.Cache
+D:\WEB项目\制作\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.CreateProc.resources
+D:\WEB项目\制作\源码生成器\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.exe
+D:\WEB项目\制作\源码生成器\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.pdb
+D:\WEB项目\制作\源码生成器\存储过程生成器\SQL.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\WEB项目\制作\源码生成器\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.Properties.Resources.resources
+D:\WEB项目\制作\源码生成器\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.csproj.GenerateResource.Cache
+D:\WEB项目\制作\源码生成器\存储过程生成器\SQL.NET\bin\Debug\SQL.NET.exe
+D:\WEB项目\制作\源码生成器\存储过程生成器\SQL.NET\bin\Debug\SQL.NET.pdb
+D:\WEB项目\制作\源码生成器\存储过程生成器\SQL.NET\obj\Debug\SQL.NET.Growup.resources
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器v20110422\SQL.NET\obj\Debug\SQL.NET.exe
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器v20110422\SQL.NET\obj\Debug\SQL.NET.pdb
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器v20110422\SQL.NET\bin\Debug\SQL.NET.exe
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器v20110422\SQL.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器v20110422\SQL.NET\obj\Debug\SQL.NET.Growup.resources
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器v20110422\SQL.NET\obj\Debug\SQL.NET.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器v20110422\SQL.NET\obj\Debug\SQL.NET.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器v20110422\SQL.NET\bin\Debug\SQL.NET.pdb
+F:\My Work\建材\存储过程生成器-2011-05-06\SQL.NET\bin\Debug\SQL.NET.exe
+F:\My Work\建材\存储过程生成器-2011-05-06\SQL.NET\bin\Debug\SQL.NET.pdb
+F:\My Work\建材\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\ResolveAssemblyReference.cache
+F:\My Work\建材\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.Growup.resources
+F:\My Work\建材\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.Properties.Resources.resources
+F:\My Work\建材\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.csproj.GenerateResource.Cache
+F:\My Work\建材\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.exe
+F:\My Work\建材\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.pdb
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.exe
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.pdb
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\bin\Debug\SQL.NET.exe
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.Growup.resources
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\bin\Debug\SQL.NET.pdb
+C:\Users\Administrator\Desktop\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.exe
+C:\Users\Administrator\Desktop\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.pdb
+C:\Users\Administrator\Desktop\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\bin\Debug\SQL.NET.exe
+C:\Users\Administrator\Desktop\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\bin\Debug\SQL.NET.pdb
+C:\Users\Administrator\Desktop\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.Growup.resources
+C:\Users\Administrator\Desktop\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.Properties.Resources.resources
+C:\Users\Administrator\Desktop\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.exe
+F:\常用\代码生成器\存储过程生成器-2011-05-06\SQL.NET\obj\Debug\SQL.NET.pdb
